@@ -1,2 +1,2 @@
 # YXEmoticonKeyboard
-the sina EmoticonKeyboard of swift2.0
+the EmoticonKeyboard of swift2.0
